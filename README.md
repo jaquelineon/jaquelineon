@@ -20,7 +20,7 @@ Desde então, tenho me dedicado ao estudo de programação, com foco em Java, ba
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="120" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelineon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
